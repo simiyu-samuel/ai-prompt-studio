@@ -1,0 +1,109 @@
+{
+  "packs": [
+    {
+      "id": "content-creation",
+      "name": "Content Creation",
+      "color": "#6366F1",
+      "prompts": [
+        {
+          "title": "Blog Post Idea Generator",
+          "category": "Content",
+          "tags": ["blog", "idea", "title"],
+          "content": "Suggest 10 blog post ideas for a website focused on [topic].",
+          "description": "Generate fresh content ideas for blog writers."
+        },
+        {
+          "title": "Social Media Caption",
+          "category": "Marketing",
+          "tags": ["caption", "social media", "creative"],
+          "content": "Write a catchy Instagram caption for a product launch of [product name].",
+          "description": "Perfect for boosting social engagement."
+        }
+      ]
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools",
+      "color": "#0EA5E9",
+      "prompts": [
+        {
+          "title": "Regex Generator",
+          "category": "Coding",
+          "tags": ["regex", "pattern", "code"],
+          "content": "Generate a regular expression that matches [pattern description].",
+          "description": "Great for quick regex tasks."
+        },
+        {
+          "title": "Code Commenter",
+          "category": "Coding",
+          "tags": ["code", "documentation", "explanation"],
+          "content": "Explain this code in simple comments:\n```[paste code here]```",
+          "description": "Helps document complex code."
+        }
+      ]
+    },
+    {
+      "id": "startup-business",
+      "name": "Startup & Business",
+      "color": "#10B981",
+      "prompts": [
+        {
+          "title": "Business Name Generator",
+          "category": "Branding",
+          "tags": ["startup", "brand", "name"],
+          "content": "Suggest 10 creative business names related to [industry or idea].",
+          "description": "Get instant naming inspiration."
+        },
+        {
+          "title": "Elevator Pitch Draft",
+          "category": "Business",
+          "tags": ["pitch", "startup", "introduction"],
+          "content": "Write a 30-second elevator pitch for a startup that does [short description].",
+          "description": "Perfect for presentations or networking."
+        }
+      ]
+    },
+    {
+      "id": "learning-study",
+      "name": "Learning & Study",
+      "color": "#F97316",
+      "prompts": [
+        {
+          "title": "Flashcard Creator",
+          "category": "Education",
+          "tags": ["study", "quiz", "flashcards"],
+          "content": "Create 10 flashcards for studying [topic] with questions and answers.",
+          "description": "Great for revision."
+        },
+        {
+          "title": "Explain Like I'm 5",
+          "category": "Learning",
+          "tags": ["simple", "explanation", "education"],
+          "content": "Explain [complex topic] like I'm 5 years old.",
+          "description": "Useful for simplified learning."
+        }
+      ]
+    },
+    {
+      "id": "fun-entertainment",
+      "name": "Fun & Entertainment",
+      "color": "#EC4899",
+      "prompts": [
+        {
+          "title": "AI Joke Generator",
+          "category": "Fun",
+          "tags": ["joke", "humor", "funny"],
+          "content": "Tell me a funny, clean joke about [topic].",
+          "description": "For entertainment or social media."
+        },
+        {
+          "title": "Story Starter",
+          "category": "Creative Writing",
+          "tags": ["story", "writing", "imagination"],
+          "content": "Start a short story that begins with: '[Your sentence here]'.",
+          "description": "Kick off your next creative writing session."
+        }
+      ]
+    }
+  ]
+}
