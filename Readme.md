@@ -149,3 +149,9 @@ Your purchase includes access to the following support channels:
 *   **Email Support**: Direct developer support for 6-12 months, depending on your license.
 *   **Documentation**: A complete guide covering setup, customization, and deployment.
 *   **Updates**: Bug fixes and minor updates will be provided.
+
+### **8. Author**
+
+* **Name**: Samuel Simiyu
+* **Email**: samueldevke@gmail.com
+* **LinkendIn**: https://www.linkedin.com/in/samuel-simiyu-63270a236
